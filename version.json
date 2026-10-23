@@ -1,0 +1,15 @@
+{
+  "minVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "title": "Zorunlu Güncelleme",
+  "message": "Uygulamanın mevzuat bildirimlerini kesintisiz alabilmesi ve yeni yasal düzenlemeleri takip edebilmeniz için yeni sürüme geçmeniz gerekmektedir.",
+  "releaseNotes": [
+    "Resmî Gazete 00:00 nöbet bildirim servisi güncellendi",
+    "GİB sirküleri ve SGK prim genelgeleri altyapısı yenilendi",
+    "Performans ve güvenlik iyileştirmeleri"
+  ],
+  "iosUrl": "https://apps.apple.com/app/id6400000000",
+  "androidUrl": "https://play.google.com/store/apps/details?id=com.mevzuatbildirim",
+  "maintenance": false,
+  "maintenanceMessage": "Sunucularımızda planlı bakım çalışması yapılmaktadır. Lütfen kısa bir süre sonra tekrar deneyiniz."
+}
